@@ -1,0 +1,13 @@
+rounds: 500
+lr: 0.01
+momentum: 0.5
+epoch: 2
+clientnum: 10
+alpha: 10
+batch_size_test: 1000
+batch_size_train: 64
+sampling_num: 4
+test_frq: 1
+client_frq_print: 10
+weight_decay: 0.01
+counter_cap: 10 
